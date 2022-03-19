@@ -1,5 +1,5 @@
 # First-Responsive-Project
 
-This is my first responsive project, i'm working on it approximately 4 hours.
+This is my first responsive project, i've been working on it approximately 4 hours.
 
 No Edits.
